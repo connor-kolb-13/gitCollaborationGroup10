@@ -6,3 +6,5 @@
 # In the conflict branch, the conflict created is that the title of the index.html file will be changed to "This is the develop branch" in the develop branch, and "This is the conflict branch" in the conflict branch.
 
 # In a scenario where there is no conflict, a paragraph will be added to both branches with the text "This will not cause a conflict." Because both branches will contain this, there will be no conflict regarding the two branches.
+
+![image](https://user-images.githubusercontent.com/124760529/222549439-cbee4b51-87c4-4f07-871f-1741812de591.png)
